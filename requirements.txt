@@ -1,0 +1,4 @@
+anthropic>=1.12.1
+langgraph>=1.0
+python-dotenv>=1.2.4
+pytest

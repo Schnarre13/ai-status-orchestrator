@@ -1,0 +1,10 @@
+Weekly program sync - week 21 (excerpt)
+
+Priya: Use case 3 is stuck. Without the evaluation data we can't run the pilot, and the data team is saying three weeks.
+Marcus: I could lend you one engineer for two weeks if we're okay with domain 5 slipping a week.
+Jordan (Value Lead): Before we push use case 3 harder, do we even have a baseline for contract review cycle time? If we launch without one, we'll never be able to show it worked.
+Priya: Honestly, no. We were going to measure after launch.
+Jordan: Then I'd rather move use case 4 ahead of it. Use case 4 has a measured baseline already.
+Dana: Related point on adoption. Logins went up a lot after wave 1, but I don't think logins tell us anything about value.
+Sam: Reminder that use cases 3 and 4 still don't have model cards. Governance gate says no expansion without them.
+Jordan: Can we get the resequencing decision to the sponsors this week? I'd want it by Friday.

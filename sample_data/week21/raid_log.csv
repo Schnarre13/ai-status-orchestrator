@@ -1,0 +1,3 @@
+id,type,description,owner,impact,response,due,status
+R-03,Risk,Vendor onboarding for pilot tooling could slip,Program lead,Medium,Escalated to procurement,Wk 20,Closed
+D-02,Dependency,Pilot users need SSO access to new tools,IT,Medium,Access requests submitted,Wk 19,Closed
